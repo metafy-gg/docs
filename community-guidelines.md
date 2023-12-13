@@ -4,7 +4,7 @@ Welcome to Metafy. Please familiarize yourself with our community guidelines, as
 
 Respect is at the core of Metafy. We are committed to fostering a community where everyone feels welcome. We will not tolerate any form of harassment, threats, doxxing, or hate speech. This includes hate speech targeting individuals or groups based on their identity or vulnerability. Our goal is to ensure that everyone can engage with their interests in a safe and supportive environment.
 
-## Content Standards :)
+## Content Standards Hello
 
 Maintaining a welcoming environment includes keeping explicit content at bay. Refrain from posting sexually explicit content, and do not share or promote content that is sexually suggestive involving minors or content that depicts or seeks to normalize sexual abuse of any kind.
 
