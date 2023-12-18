@@ -20,7 +20,3 @@ Engaging in the sharing, facilitation, or promotion of piracy, hacking, cheating
 
 ## Rule Adherence, Feedback, and Disputes
 Constructive feedback is welcomed in our Discord server. Disputes regarding post removals or account bans should also be addressed there. Any attempt to circumvent moderator actions on your account will lead to additional measures taken against it.
-
-Our community guidelines are dynamic and will evolve as our features and community culture grow. Major changes will be announced, but we encourage you to revisit these guidelines regularly to stay informed.
-
-Thank you for taking the time to read and understand our guidelines. We look forward to building an engaging and inclusive community with your help and collaboration.
