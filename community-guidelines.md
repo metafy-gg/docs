@@ -1,24 +1,25 @@
 Welcome to Metafy. Please familiarize yourself with our community guidelines, as they are essential for creating a positive and enjoyable experience for all members.
 
-## Respect and Inclusivity
+## Be Kind
+Respect and civility are paramount: hate speech, harassment, threats, and sharing personal information are strictly prohibited and may result in immediate bans.
 
-Respect is at the core of Metafy. We are committed to fostering a community where everyone feels welcome. We will not tolerate any form of harassment, threats, doxxing, or hate speech. This includes hate speech targeting individuals or groups based on their identity or vulnerability. Our goal is to ensure that everyone can engage with their interests in a safe and supportive environment.
+## Quality, Relevance, and Originality Standards
+All posts should relate to gaming or gaming culture. Check for similar content before posting to avoid creating duplicates. Repetitive, low-effort, or low-quality posts may be removed at moderator discretion.
 
-## Content Standards
+## Explicit Content
+No explicit or violent content, including gore, pornography, and animal cruelty.
 
-Maintaining a welcoming environment includes keeping explicit content at bay. Refrain from posting sexually explicit content, and do not share or promote content that is sexually suggestive involving minors or content that depicts or seeks to normalize sexual abuse of any kind.
+## Misinformation & Sensationalist Content
+Refrain from posting misinformation, clickbait, and sensationalist content. Impersonating users or public figures with the intent to mislead others is not allowed.
 
-## Legal Compliance
+## Self-Promotion & Engagement Farming
+Posts intended solely for soliciting follows, comments, reactions, or engagement for self-promotion or XP farming are not allowed. Personal promotion and advertising must be limited to your Profile Feed and the Metafy Marketplace. Refrain from using affiliate links, URL shorteners, promoting cryptocurrencies, posting job listings, or requesting free items.
 
-Put simply: Don't break the law.
+## Unethical Gaming Practices
+Engaging in the sharing, facilitation, or promotion of piracy, hacking, cheating, or advocating the circumvention of terms of service is forbidden and will lead to an immediate ban.
 
-## Preserving the Browsing Experience
-
-Quality and authenticity are key to our community's success. To ensure this, do not engage in activities that negatively impact the browsing experience of others. This includes, but is not limited to, spamming, spreading false or misleading information, or impersonating Metafy or other users. In addition, we reserve the right to remove content we deem to be especially low-effort or low-quality.
-
-## Compliance with Enforcement
-
-We prioritize a proactive enforcement approach, which includes warnings, post-removals, and account suspensions. In severe cases, we reserve the right to issue permanent bans without warning, particularly in situations that pose a significant threat to the community's well-being. Please respect the enforcement methods employed by Metafy and do not attempt to circumvent temporary or permanent disciplinary actions against your account. We value fairness and transparency in our enforcement efforts, and any attempts to subvert these measures will not be tolerated.
+## Rule Adherence, Feedback, and Disputes
+Constructive feedback is welcomed in our Discord server. Disputes regarding post removals or account bans should also be addressed there. Any attempt to circumvent moderator actions on your account will lead to additional measures taken against it.
 
 Our community guidelines are dynamic and will evolve as our features and community culture grow. Major changes will be announced, but we encourage you to revisit these guidelines regularly to stay informed.
 
