@@ -13,7 +13,7 @@ No explicit or violent content, including gore, pornography, and animal cruelty.
 Refrain from posting misinformation, clickbait, and sensationalist content. Impersonating users or public figures with the intent to mislead others is not allowed.
 
 ## Self-Promotion & Engagement Farming
-Posts intended solely for soliciting follows, comments, reactions, or engagement for self-promotion or XP farming are not allowed. Personal promotion and advertising must be limited to your Profile Feed and the Metafy Marketplace. Refrain from using affiliate links, URL shorteners, promoting cryptocurrencies, posting job listings, or requesting free items.
+Posts aimed solely at eliciting follows, comments, reactions, or engagement for self-promotion or XP farming purposes are not allowed. Personal promotion and advertising must be confined to your Profile Feed and the Metafy Marketplace. Additionally, refrain from using affiliate links, URL shorteners, promoting cryptocurrencies, posting job listings, or requesting free items. Furthermore, using multiple alt accounts to artificially boost your own content via reactions or other means is also not allowed.
 
 ## Unethical Gaming Practices
 Engaging in the sharing, facilitation, or promotion of piracy, hacking, cheating, or advocating the circumvention of terms of service is forbidden and will lead to an immediate ban.
