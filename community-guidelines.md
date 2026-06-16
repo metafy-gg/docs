@@ -1,22 +1,29 @@
-Welcome to Metafy. Please familiarize yourself with our community guidelines, as they are essential for creating a positive and enjoyable experience for all members.
+Metafy is built for gamers, by people who actually give a damn about gaming. Every user, from gamers to partners, has a responsibility to help keep it that way. These rules apply everywhere on Metafy: partner posts, comments, DMs, and reviews.
+*Connected Discord servers are managed independently by their partners and are subject to their own rules.
 
 ## Be Kind
-Respect and civility are paramount: hate speech, harassment, threats, and sharing personal information are strictly prohibited and may result in immediate bans.
+Respect goes a long way. Hate speech, harassment, threats, and sharing someone's personal information without their consent aren't welcome here and will get you banned fast.
 
-## Quality, Relevance, and Originality Standards
-All posts should relate to gaming or gaming culture. Check for similar content before posting to avoid creating duplicates. Repetitive, low-effort, or low-quality posts may be removed at moderator discretion.
+## Win or Lose, Play With Class
+Don't harass, bully, threaten, or conduct yourself in a way that negatively impacts other members of the community. Gaming can get intense, but there's a real human on the other side of the screen. Treat them accordingly.
 
-## Explicit Content
-No explicit or violent content, including gore, pornography, and animal cruelty.
+## Keep It Appropriate
+Gamers span every age group. No gore, pornography, nudity, graphic violence, or content unfit for all audiences. Pretty simple.
 
-## Misinformation & Sensationalist Content
-Refrain from posting misinformation, clickbait, and sensationalist content. Impersonating users or public figures with the intent to mislead others is not allowed.
+## Keep It Real
+Don't post misinformation, clickbait, or sensationalist content. Don't impersonate other users or public figures. Don't plagiarize. Any content you share must be your own or content you have the rights to use. Don't flood with duplicates or low-effort posts just to take up space. Moderators may remove content that doesn't meet the bar.
 
-## Self-Promotion & Engagement Farming
-Posts aimed solely at eliciting follows, comments, reactions, or engagement for self-promotion or XP farming purposes are not allowed. Personal promotion and advertising must be confined to your Profile Feed and the Metafy Marketplace. Additionally, refrain from using affiliate links, URL shorteners, promoting cryptocurrencies, posting job listings, or requesting free items. Furthermore, using multiple alt accounts to artificially boost your own content via reactions or other means is also not allowed.
+## Keep Yourself and Others Safe
+Don't share personally identifiable information about yourself or others. Safeguard your account information and passwords.
 
-## Unethical Gaming Practices
-Engaging in the sharing, facilitation, or promotion of piracy, hacking, cheating, or advocating the circumvention of terms of service is forbidden and will lead to an immediate ban.
+## Self-Promotion
+Go for it. Share your work, promote your sessions, grow your audience. That's kind of the whole point. Just keep the affiliate links, URL shorteners, crypto shills, job listings, and "free item" requests out of it. And don't use alt accounts to fake your own engagement. That's just sad.
 
-## Rule Adherence, Feedback, and Disputes
-Constructive feedback is welcomed in our Discord server. Disputes regarding post removals or account bans should also be addressed there. Any attempt to circumvent moderator actions on your account will lead to additional measures taken against it.
+## Play Fair
+Don't share, promote, or facilitate piracy, hacking, cheating, or circumventing anyone's terms of service. Don't interfere with or disrupt Metafy's services, servers, or networks. Don't access Metafy through any means other than the interface we provide, including automated systems, scrapers, spiders, or bots. Violations will get you banned immediately. No exceptions.
+
+## Disputes & Feedback
+If you spot someone violating these rules or negatively impacting the experience of others, email us at support@metafy.gg. For feedback or to dispute a moderation decision, bring it to our Discord. Trying to work around a moderator action will only make things worse for you.
+
+## Enforcement
+Metafy reserves the right to suspend, permanently ban, or remove accounts from discovery for violations of these guidelines. We'll make the call proportional to what happened, but we won't hesitate when we need to.
