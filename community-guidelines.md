@@ -1,5 +1,5 @@
 Metafy is built for gamers, by people who actually give a damn about gaming. Every user, from gamers to partners, has a responsibility to help keep it that way. These rules apply everywhere on Metafy: partner posts, comments, DMs, and reviews.
-*Connected Discord servers are managed independently by their partners and are subject to their own rules.
+*Connected Discord servers are managed independently and are subject to their own rules.
 
 ## Be Kind
 Respect goes a long way. Hate speech, harassment, threats, and sharing someone's personal information without their consent aren't welcome here and will get you banned fast.
