@@ -26,4 +26,4 @@ Don't share, promote, or facilitate piracy, hacking, cheating, or circumventing 
 If you spot someone violating these rules or negatively impacting the experience of others, email us at support@metafy.gg. For feedback or to dispute a moderation decision, bring it to our Discord. Trying to work around a moderator action will only make things worse for you.
 
 ## Enforcement
-Metafy reserves the right to suspend, permanently ban, or remove accounts from discovery for violations of these guidelines. We'll make the call proportional to what happened, but we won't hesitate when we need to.
+Metafy reserves the right to remove content, limit visibility, remove accounts from discovery, or suspend or permanently ban any account at our sole discretion, for any reason, with or without notice. This includes conduct on or off Metafy that we believe harms the community. We aim to keep our response proportional, but we won't hesitate when we need to.
